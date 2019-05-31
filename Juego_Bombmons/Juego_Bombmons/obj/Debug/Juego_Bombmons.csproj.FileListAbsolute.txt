@@ -1,0 +1,12 @@
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\bin\Debug\Juego_Bombmons.exe.config
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\bin\Debug\Juego_Bombmons.exe
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\bin\Debug\Juego_Bombmons.pdb
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.csprojAssemblyReference.cache
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.Properties.Resources.resources
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.csproj.GenerateResource.cache
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.csproj.CoreCompileInputs.cache
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.exe
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.pdb
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.GameWindow.resources
+C:\Users\gianf\source\repos\Juego_Bombmons\Juego_Bombmons\obj\Debug\Juego_Bombmons.csproj.CopyComplete
